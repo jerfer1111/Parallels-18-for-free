@@ -22,6 +22,5 @@ Indeed, there are tasks that can only be accomplished on a Windows machine. Howe
 ## How to use Parallels for FREE on a Mac
 **Step 1**: Download the latest file from Releases
 
-```
-Note: **Do Not** Update Parallels. If you do, this will no longer work and you will have to repeat this process
-```
+> [!CAUTION]
+> **Do Not** Update Parallels. If you do, this will no longer work and you will have to repeat this process
