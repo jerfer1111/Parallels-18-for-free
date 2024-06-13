@@ -1,4 +1,5 @@
 # Parallels-18-for-free
+![AI Generated image of a Mac from Windows Copilot](https://github.com/jerfer1111/Parallels-18-for-free/blob/main/Elements/Designer.png?raw=true)
 Are you looking for a way to use Parallels Desktop for free on a Mac? If so, you have come to the right place.
 
 For programmers who want to test code on both Mac and PC, or gamers who appreciate Mac speed but can’t give up PC game options, having a Mac with Windows is the ideal choice.
