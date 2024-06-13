@@ -7,3 +7,10 @@ However, the challenge lies in the cost associated with achieving this. Parallel
 
 ## What is Parallels?
 Parallels Desktop for Mac is virtualization software that lets you seamlessly run Microsoft Windows, Linux, and Google Chrome OS on your Apple Mac. It integrates guest operating systems into macOS, allowing you to use Windows apps alongside Mac apps. The software offers different modes, including coherence mode for simultaneous app usage, full-screen mode for a complete guest desktop, and modality for customizable virtual machine windows. IT administrators can manage Windows VMs efficiently using the Business Edition
+
+## Pros & Cons whilst using Parallels
+
+| Pros  | Cons |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
