@@ -36,3 +36,7 @@ Indeed, there are tasks that can only be accomplished on a Windows machine. Howe
 **Step 4**: Click on the Install.app file.
 
 ![Screenshot on Mac](https://github.com/jerfer1111/Parallels-18-for-free/blob/main/Elements/Screenshot%20of%20DMG%20installers.png?raw=true)
+
+**Step 5**: Install Parallels and close parallels.
+
+**Step 6**: Open Spotlight or Lauchpad, search for “Terminal“, and open it.
