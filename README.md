@@ -31,3 +31,8 @@ Indeed, there are tasks that can only be accomplished on a Windows machine. Howe
 **Step 3**: Double-click the DMG file.
 
 ![Screenshot on Mac](https://github.com/jerfer1111/Parallels-18-for-free/blob/main/Elements/Screenshot%20of%20DMG%20.png?raw=true)
+
+
+**Step 4**: Click on the Install.app file.
+
+![Screenshot on Mac](https://github.com/jerfer1111/Parallels-18-for-free/blob/main/Elements/Screenshot%20of%20DMG%20installers.png?raw=true)
