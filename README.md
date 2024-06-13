@@ -11,6 +11,7 @@ Parallels Desktop for Mac is virtualization software that lets you seamlessly ru
 ## Pros & Cons whilst using Parallels
 
 | Pros  | Cons |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| :-------------: | :-------------: |
+| Windows (or other OS) virtualization on machines running MacOS  | I think it slows down over time, but this is linked to Windows bloating.  |
+| Using Windows apps side by side with your Mac apps  | I think Coherence Mode could improve slightly…how the windows search window populates and moves around sometimes are weird.   |
+| Coherence Mode allows you to hide the Windows Virtual Machine and only interact with the Windows Apps (no Windows desktop in the browser window)  | Memory Usage optimization  |
