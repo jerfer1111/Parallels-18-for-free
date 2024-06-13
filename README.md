@@ -40,3 +40,17 @@ Indeed, there are tasks that can only be accomplished on a Windows machine. Howe
 **Step 5**: Install Parallels and close parallels.
 
 **Step 6**: Open Spotlight or Lauchpad, search for “Terminal“, and open it.
+
+![Screenshot on Mac](https://github.com/jerfer1111/Parallels-18-for-free/blob/main/Elements/Screenshot%20of%20Spotlight%20.png?raw=true)
+
+**Step 7**: Type the following: cd /Volumes/ParallelsDesktop-18.0.2-53077/parallelsdesktopcrack
+
+> [!TIP]
+> If you face “**error 1 at line 94**”, kindly do this:
+> Open System Settings, search for “**App Management**”, and enable the permission for the terminal. And then try again, it’ll work. Good luck!
+
+**Step 8**: Type: chmod +x install.sh
+
+**Step 9**: Type: sudo ./install.sh
+
+**Step 10**: Parallels Should now be activated! Enjoy!
